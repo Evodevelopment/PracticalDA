@@ -1,22 +1,3 @@
-from bs4 import BeatifulSoup
-import urllib.request
-from time import sleep
-from datetime import datetime
-
-def getGoldPrice():
-  url = 'https://www.gold.org/'
-  req = urllib.request.urlopen(url)
-  page = req.read()
-  scraping = BeatifulSoup(page)
-  price = scraping.findAll('td', attrs = {'id': spotpriceCellAsk'})[0]
-                                          .text
-                                          return price
-
-with open ('goldPrice.out', 'w') as f:
-                                          for x in range(0,60):
-                                             sNow = datetime.now().strftime(
-      
-                                        
 from bs4 import BeautifulSoup
 import urllib.request
 from time import sleep
