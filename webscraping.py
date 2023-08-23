@@ -12,5 +12,8 @@ def getGoldPrice():
                                           .text
                                           return price
 
-
+with open ('goldPrice.out', 'w') as f:
+                                          for x in range(0,60):
+                                             sNow = datetime.now().strftime(
+      
                                         
