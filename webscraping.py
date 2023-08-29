@@ -17,3 +17,7 @@ with open("goldPrice.out","w") as f:
         sNow = datetime.now().strftime("%I:%M:%S%p")
         f.write("{0}, {1} \n ".format(sNow, getGoldPrice()))
         sleep(1)
+
+#Beautiful Soup is a Python library for pulling data out of HTML and XML files. It works with your favorite parser to provide idiomatic 
+# ways of navigating, searching, and modifying the parse tree. It commonly saves programmers hours or days of work.
+
