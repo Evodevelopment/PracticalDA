@@ -26,3 +26,4 @@ with open("goldPrice.out","w") as f:
 #Beautiful Soup, a Python library, excels at extracting data from HTML and XML files with elegance and efficiency. It seamlessly 
 #integrates with your preferred parser, offering idiomatic methods for traversing, searching, 
 #and modifying the parsing tree. Its capabilities often lead to substantial time savings, sparing programmers hours or even days of labor.
+
