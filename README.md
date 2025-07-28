@@ -1,6 +1,7 @@
 ## Practical Data Analysis
 
 #### Data science has become popular in the last few years due to its successful application in making business decisions. 
+- so general and redundat statement - comment 28/7
 
 # Test - Update
 
