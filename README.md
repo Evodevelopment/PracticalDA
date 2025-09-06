@@ -1,4 +1,8 @@
-## Practical Data Analysis = Test , Test.
+
+Practical data analysis readmefile...
+
+Data science, or information manipulation ( gathering, exchanging, etc. ) has been part of civilization from the very begining.  ( I would like to analyze the Nexus comprehension on this so I know if I have understood the book correctly..
+
 
 #### Data science has become popular in the last few years due to its successful application in making business decisions. 
 - so general and redundat statement - comment 28/7
