@@ -1,6 +1,9 @@
 
 Practical data analysis readmefile...
 
+
+## Find the other repository where I have the edit notes.
+
 Data science, or information manipulation ( gathering, exchanging, etc. ) has been part of civilization from the very begining.  ( I would like to analyze the Nexus comprehension on this so I know if I have understood the book correctly..
 
 
